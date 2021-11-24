@@ -10,6 +10,7 @@
     brownie init
     brownie compile
     brownie run scripts/deploy.py
+    brownie run scripts/1_deploy_token.py
     brownie accounts new user_name
     brownie accounts list
     brownie accounts delete user_name
